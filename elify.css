@@ -1,29 +1,43 @@
 .logo{
-	width:200px;
+	width:100px;
+	margin:20px;
+
 	
 }
 .he{
 	background-color:black;
 	border:1px solid Black;
-	height:300px;
+	
 }
 	
 body{
 	margin:0px;
 }
+.ar{
+	width:50px;
+	margin-top:-90;
+	margin-left:1040px;
+}
+.cart{
+	width:50px;
+	margin-top:-90;
+	margin-left:1140px;
+}
 .search{
 	font-size:20px;
 	border-radius: 10px;
-	height: 55px;
+	height: 60px;
 	display:flex;
-	margin-left:350px;
-	width:500px;
-	margin-bottom:500px;
+	margin-left:200px;
+	width:800px;
+	margin-bottom:30px;
+	margin-top:-100;
 }
 .ear{
-	margin-top:100px ;
-	width:230px;
-	margin-left:300px;
+	width:200px;
+	margin-top:100px;
+	margin-left:140px;
+	
 	
 }
 .r{
